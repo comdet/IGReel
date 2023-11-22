@@ -1,6 +1,6 @@
-User Data Privacy Statement
+# User Data Privacy Statement
 
-Last Updated: 22/11/2023
+### Last Updated: 22/11/2023
 
 We are dedicated to preserving the privacy and security of our users' information. This privacy statement outlines how your privacy is maintained when using our Chrome extension.
 
