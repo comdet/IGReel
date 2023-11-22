@@ -16,15 +16,15 @@ We are dedicated to preserving the privacy and security of our users' informatio
 
 1. Security Measures: Despite not collecting any data, we ensure the highest standards of security for any information exchanged between your device and our servers. Our extension operates in a way that preserves your privacy without compromising security.
 
-- User Controls
+## User Controls
 
 1. No Opt-Out or Deletion: Given that no data is collected, there are no opt-out procedures or data deletion mechanisms required.
 
-Updates to Privacy Policy
+## Updates to Privacy Policy
 
 We reserve the right to update this privacy statement when necessary. Any changes made will be reflected in this document, and users will be informed of significant updates.
 
-Contact Information
+## Contact Information
 
 For any inquiries or concerns about our privacy practices or this statement, please contact us at phudphut@gmail.com
 
